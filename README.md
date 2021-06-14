@@ -5,5 +5,5 @@ This is my repsonsive-portfolio assignment.  I created a contact page, an index 
 Deployed: https://caseofbase18.github.io/responsive-portfolio/
 
 <img src="./assets/MyBio.png">
-<img src="./assets/MyContacts.png">
+<img src="./assets/MyContact.png">
 <img src="./assets/MyPortfolio.png">
